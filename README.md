@@ -8,12 +8,12 @@
 - **注意**：（如果没有随机加载，请清除你的浏览器缓存---GitHub可能会将首次MarkDown加载的图片缓存）。
 
 ### API 调用横版 (PC)
+- 调用地址: `https://ani-api.reia.fans/pc`
 ![](https://ani-api.reia.fans/pc) 
-- 调用地址: `https://<your_worker_domain>/pc`
 
 ### API 调用竖版 (Mobile)
+- 调用地址: `https://ani-api.reia.fans/mobile`
 ![](https://ani-api.reia.fans/mobile) 
-- 调用地址: `https://<your_worker_domain>/mobile`
 
 ---
 
